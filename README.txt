@@ -1,0 +1,1 @@
+This is an application I made as part of Engineer Degree at Politechnika Poznanska (Poznan University of Technology)
